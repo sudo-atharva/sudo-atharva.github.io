@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Pursuing B.tech electronics and telecomunication RTMNU
-* diploma in mechatronics engineering, govermnet polytechnic,Nagpur 2023
+* B.Tech in Electronics and Telecommunication, RTMNU (pursuing)
+* Diploma in Mechatronics Engineering, Government Polytechnic, Nagpur, 2023
 
 
 Work experience
@@ -26,7 +26,7 @@ Bot" project, demonstrating strong hardware integration skills and a deep unders
 embedded systems.
   * Actively participated in organizing Arduino Fast 2024, contributing to a successful event
 through effective teamwork and communication skills.
-  * I am particularly interested in pursuing opportunities in Embedded system devlopment,
+  * I am particularly interested in pursuing opportunities in Embedded system development,
 leveraging the technical and collaborative skills gained at Makxenia.
   * Supervisor: Makxenia Team
 
@@ -38,33 +38,19 @@ Skills
     systems for control and automation.
   * AutoCAD: Proficient in using AutoCAD for creating 2D engineering drawings, essential for
     design communication and manufacturing.
-  * PLC (Programmable Logic Controllers) & SCADA (Supervisory Control and DataAcquisition): Understand the principles and applications of PLCs for industrial      automation and SCADA systems for process monitoring and control.
+  * PLC (Programmable Logic Controllers) & SCADA (Supervisory Control and Data Acquisition): Understand the principles and applications of PLCs for industrial automation and SCADA systems for process monitoring and control.
   * C Programming : Possess a working knowledge of C programming, a fundamental skill for
     embedded system development and interacting with various hardware components.
 * Soft Skills:
-  * Effective Communication: Gained valuable communication skills through coursework and potentially group projects. (Tailor to your specific experiences)
+  * Effective Communication: Gained valuable communication skills through coursework and potentially group projects.
   * Teamwork: Developed teamwork abilities through collaboration with classmates on projects.
   * Problem-Solving: Cultivated problem-solving skills through technical challenges encountered during the program.
 
 
-Publications
+Projects
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* [Companion](https://github.com/sudo-atharva/companion): CarPlay-style home screen for a 3D printer touchscreen (Raspberry Pi, OctoPrint, Angular, Electron)
+* [OctoPrint PSU Control - Tapo](https://github.com/sudo-atharva/OctoPrint-PSUControl-Tapo): smart-plug power control and energy monitoring plugin
+* [OctoPrint Timelapse Watermark](https://github.com/sudo-atharva/OctoPrint-TimelapseWatermark): custom logo on OctoPrint timelapses
+* [MPPT-ESP32](https://github.com/sudo-atharva/MPPT-ESP32): MPPT solar charge controller
+* More on the [About page](/) and [GitHub](https://github.com/sudo-atharva?tab=repositories)

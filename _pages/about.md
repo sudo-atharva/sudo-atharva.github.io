@@ -18,6 +18,12 @@ My work spans the full product stack: schematic capture and PCB layout in KiCad,
 - **Programming:** C, C++, Python, JavaScript, TypeScript, PHP
 - **Software:** OpenCV, machine learning, React, Node.js, MongoDB, Socket.IO, Linux
 
+## Featured: Companion
+
+<img src="/images/companion/device.jpg" width="420" alt="Companion on the printer touchscreen">
+
+[Companion](https://github.com/sudo-atharva/companion) turns the 3.5" touchscreen of a 3D printer into a CarPlay-style home screen: dashboard with live power draw, Spotify remote with lyrics, custom shortcut deck, print-from-off with automatic power on/off, a night clock and a web editor at the printer's address. Raspberry Pi 3B+, OctoPrint, Angular, Electron. [Read the write-up](/posts/2026/11/companion/).
+
 ## Selected Projects
 
 ### Power Electronics and Energy
@@ -59,7 +65,9 @@ My work spans the full product stack: schematic capture and PCB layout in KiCad,
 ### Developer Tools and 3D Printing
 
 - [KiCad Plugin](https://github.com/sudo-atharva/kicad-myplugin) - KiCad 10 plugin providing fab-aware DRC, voltage/current trace sizing, power pours with stitching, H/V autorouting, silkscreen cleanup, and Eagle import helpers.
-- [OctoPrint PSU Control - Tapo](https://github.com/sudo-atharva/OctoPrint-PSUControl-Tapo) - OctoPrint plugin for TP-Link Tapo P110 smart plugs: one-click power, auto-off after print, auto-connect, and OctoDash/OctoApp support.
+- [Companion](https://github.com/sudo-atharva/companion) - CarPlay-style home screen for a 3D printer touchscreen (Angular, Electron, OctoPrint plugin).
+- [OctoPrint PSU Control - Tapo](https://github.com/sudo-atharva/OctoPrint-PSUControl-Tapo) - OctoPrint plugin for TP-Link Tapo P110 smart plugs: one-click power, auto-off after print, auto-connect, energy readings (watts, kWh per print), and OctoDash/OctoApp support.
+- [OctoPrint Timelapse Watermark](https://github.com/sudo-atharva/OctoPrint-TimelapseWatermark) - OctoPrint plugin that puts a custom logo on every timelapse and survives updates.
 - [OctoPrint SmartAutoClean](https://github.com/sudo-atharva/OctoPrint-SmartAutoClean) - Autonomous print queue with G-code sweep ejection, OpenCV bed-clear verification, and GPIO relay power-off.
 - [OLED Designer](https://sudo-atharva.github.io/oled-designer/) - Browser-based graphics designer for OLED displays.
 - [PCBs](https://github.com/sudo-atharva/PCBs) - Collection of KiCad PCB designs.
